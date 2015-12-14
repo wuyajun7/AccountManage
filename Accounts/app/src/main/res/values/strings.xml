@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accounts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ACCOUNT_TYPE">com.microguest.accounts</string>
+    <string name="ACCOUNT_LABEL">测试</string>
+
+    <string name="username_format">账号 ：%1$s</string>
+    <string name="usertoken_format">Token ：%1$s</string>
+</resources>
